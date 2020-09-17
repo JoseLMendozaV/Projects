@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Códigos realizados en Python
 
-You can use the [editor on GitHub](https://github.com/JoseLMendozaV/Projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En esta sección colocaré todos los códigos que he desarrollado con diferentes fines.
+los iré describiendo.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
