@@ -1,2 +1,3 @@
 # Python
-{% include list.liquid %}
+
+Python Codes/code.md
