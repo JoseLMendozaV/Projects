@@ -1,3 +1,3 @@
 # Python
 
-Python Codes/code.md
+/code1.md
