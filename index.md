@@ -1,7 +1,7 @@
 ## Códigos realizados en Python
 
 En esta sección colocaré todos los códigos que he desarrollado con diferentes fines.
-los iré describiendo.
+Iré describiendo.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
