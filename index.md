@@ -2,7 +2,7 @@
 
 En esta sección colocaré todos los códigos que he desarrollado con diferentes fines.
 Iré describiendo.
-<li><a href="/code1.html">About</a></li>
+<li><a href="/Projects/code1.html">About</a></li>
 Código 1 [Mover imágenes](https://github.com/JoseLMendozaV/Projects/blob/gh-pages/code1.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
