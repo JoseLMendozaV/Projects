@@ -3,4 +3,4 @@ sort: 1
 ---
 # Move Images from a folder
 
-Documentando.
+Documentando, en proceso.
