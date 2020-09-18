@@ -1,7 +1,7 @@
 ---
 sort: 2
 ---
-# PythonCodes
+# Python Codes
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
