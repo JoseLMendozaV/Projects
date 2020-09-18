@@ -16,7 +16,7 @@ import pandas as pd
 
 ## 2. Leer el archivo
 
-Luego se debe leer el archivo por medio del <dl><dt>pd.read</dt></dl> para así, luego utilizar como un dataframe.
+Luego se debe leer el archivo por medio del **pd.read** para así, luego utilizar como un dataframe.
 ```
 data = pd.read_csv('/home/longino/Documents/DATA/faltantes.csv')
 ```
