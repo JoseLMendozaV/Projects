@@ -1,9 +1,7 @@
 ---
 sort: 2
 ---
-
 # Python Codes
-
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
 
