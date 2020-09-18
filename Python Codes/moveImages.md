@@ -1,6 +1,6 @@
 ---
 sort: 1
 ---
-# PythonPrueba
+# Move Images from a folder
 
 Documentando.
