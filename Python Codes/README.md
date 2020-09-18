@@ -1,7 +1,7 @@
 ---
 sort: 2
 ---
-# Move Images from a folder
+# PythonCodes
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
